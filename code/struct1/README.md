@@ -1,6 +1,6 @@
 
 
-The .py files in We did not test all architectures using Autogen and CAMEL, which is costly. Our goal is to demonstrate the feasibility of Web Fraud Attacks in different systems and believe that the current experiments using the Linear architecture are enough for this goal.
+Note that the .py files in autogen_example/ and camel_example/ use Autogen and CAMEL, respectively. We did not test all architectures using Autogen and CAMEL, which is costly. Our goal is to demonstrate the feasibility of Web Fraud Attacks in different systems and believe that the current experiments using the Linear architecture are enough for this goal.
 
 ## Project Structure
 
@@ -16,8 +16,6 @@ The .py files in We did not test all architectures using Autogen and CAMEL, whic
     ├── 5-8.py                 # Attack Commands 5-8
     └── 9-11.py                # Attack Commands 9-11
 ```
-
-## Quick Start
 
 ### 1. Install Dependencies
 
@@ -55,4 +53,5 @@ python 1-4.py
 python 5-8.py
 python 9-11.py
 ```
+
 
