@@ -1,5 +1,6 @@
-## Project Structure
 
+## Project Structure
+By default, the .py files in the following directories are built using MetaGPT.
 ```
 
 ├── struct1/  # Linear
@@ -10,7 +11,6 @@
 ```
 
 ## 1. Install Dependencies
-1. set up metagpt
 ```
 pip install metagpt
 ```
