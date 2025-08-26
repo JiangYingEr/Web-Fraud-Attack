@@ -26,3 +26,10 @@ Our experiments show that Web Fraud Attacks show significant success rates. We p
  - **It does not require sophisticated prompt engineering or deep knowledge of the target model's internal safeguards, lowering the barrier to entry for attackers**
  - **It can become a springboard to launch a wide range of attacks, such as pishing and malware injection**
 
+## DISCLAIMER
+### 1. Purpose Limitation
+The code in this repository (including attack prototypes and vulnerability exploitation scripts) is only used for academic research and educational purposes, specifically including:
+ - Verifying attacks in target systems;
+ - Testing the effectiveness of self-developed defense tools;
+ - Teaching the principles of vulnerabilities in cybersecurity courses.
+It is strictly prohibited to use the contents of this repository for other scenarios.
