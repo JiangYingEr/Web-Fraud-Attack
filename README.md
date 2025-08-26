@@ -27,7 +27,6 @@ Our experiments show that Web Fraud Attacks show significant success rates. We p
  - **It can become a springboard to launch a wide range of attacks, such as pishing and malware injection**
 
 ## DISCLAIMER
-### 1. Purpose Limitation
 The code in this repository (including attack prototypes and vulnerability exploitation scripts) is only used for academic research and educational purposes, specifically including:
  - Verifying attacks in target systems;
  - Testing the effectiveness of self-developed defense tools;
