@@ -1,3 +1,4 @@
+# Web Fraud Attacks Against LLM-Driven Multi-Agent Systems
 **Web Fraud Attacks (WFA)** aim to induce LLM-driven multi-agent systems (MAS) to believe a malicious website as benign, which will become a sprindboard for attackers to launch subsequent attacks, significantly amplifying the attack surface.
 
 ## 1. Why Proposing Web Fraud Attacks?
