@@ -1,6 +1,6 @@
 
 
-We did not test all architectures using Autogen and CAMEL, which is costly. Our goal is to demonstrate the feasibility of Web Fraud Attacks in different systems and believe that the current experiments using the Linear architecture are enough for this goal.
+The .py files in We did not test all architectures using Autogen and CAMEL, which is costly. Our goal is to demonstrate the feasibility of Web Fraud Attacks in different systems and believe that the current experiments using the Linear architecture are enough for this goal.
 
 ## Project Structure
 
@@ -55,3 +55,4 @@ python 1-4.py
 python 5-8.py
 python 9-11.py
 ```
+
