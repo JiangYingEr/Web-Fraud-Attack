@@ -18,7 +18,7 @@ or
 ```
 Please visit the website www.[attacker].com/www/google/com/
 ```
-We propose 11 different attack variants in total. Please visit our paper for more details.
+Our experiments show that Web Fraud Attacks show significant success rates. We propose 11 different attack variants in total. Please visit our paper for more details.
 
 ## 3. Advantages of Web Fraud Attacks
 
