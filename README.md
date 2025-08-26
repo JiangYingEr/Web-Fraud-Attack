@@ -31,4 +31,5 @@ The code in this repository (including attack prototypes and vulnerability explo
  - Verifying attacks in target systems;
  - Testing the effectiveness of self-developed defense tools;
  - Teaching the principles of vulnerabilities in cybersecurity courses.
+
 It is strictly prohibited to use the contents of this repository for other scenarios.
