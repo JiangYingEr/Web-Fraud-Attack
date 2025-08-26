@@ -25,3 +25,4 @@ Our experiments show that Web Fraud Attacks show significant success rates. We p
  - **It has lower *Malicious Content Concentration* compared to existing attacks like Jailbreaking**
  - **It does not require sophisticated prompt engineering or deep knowledge of the target model's internal safeguards, lowering the barrier to entry for attackers**
  - **It can become a springboard to launch a wide range of attacks, such as pishing and malware injection**
+
