@@ -29,4 +29,6 @@ python struct1/linear_defense0.py
 ```
 
 ## Note
-We found that the results show a certain degree of randomness, e.g., the results of every ten times are not exactly the same. Therefore, the attack success rates you observe may not be completely identical to those in our paper.
+1. We let the auditor to input three levels: low risk, medium risk, and high risk. Low/medium is treated as attack success.
+
+2. We found that the results show a certain degree of randomness, e.g., the results of every ten times are not exactly the same. Therefore, the attack success rates you observe may not be completely identical to those in our paper.
