@@ -1,5 +1,5 @@
 # Web Fraud Attacks Against LLM-Driven Multi-Agent Systems
-**Web Fraud Attacks (WFA)** aim to induce LLM-driven multi-agent systems (MAS) to believe a malicious website as benign, which will become a sprindboard for attackers to launch subsequent attacks, significantly amplifying the attack surface.
+**Web Fraud Attacks (WFA)** aim to induce LLM-driven multi-agent systems (MAS) to believe a malicious website as benign, which will become a sprindboard for attackers to launch subsequent attacks, significantly amplifying the attack surface. Please refer to our [paper](https://arxiv.org/abs/2509.01211) for more details.
 
 ## 1. Why Proposing Web Fraud Attacks?
 This work is motivated by an irresistible trend that, *people increasingly expect that agents can directly obtain real-time information from the Internet and help them perform operations on websites, and techniques like Model Context Protocol (MCP) makes this demand feasible*. As a result, we believe that visiting websites will become one of the major functions of MAS in the future and the security of this aspect needs in-depth exploration.
@@ -24,6 +24,20 @@ Our experiments show that Web Fraud Attacks show significant success rates. We p
  - **It has lower *Malicious Content Concentration* compared to existing attacks like Jailbreaking**
  - **It does not require sophisticated prompt engineering or deep knowledge of the target model's internal safeguards, lowering the barrier to entry for attackers**
  - **It can become a springboard to launch a wide range of attacks, such as pishing and malware injection**
+
+## 4. Citing
+If you find our attacks helpful, please consider citing:
+
+```
+@misc{kong2025webfraudattacksllmdriven,
+      title={Web Fraud Attacks Against LLM-Driven Multi-Agent Systems}, 
+      author={Dezhang Kong and Hujin Peng and Yilun Zhang and Lele Zhao and Zhenhua Xu and Shi Lin and Changting Lin and Meng Han},
+      year={2025},
+      eprint={2509.01211},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR}
+}
+```
 
 ## DISCLAIMER
 The code in this repository (including attack prototypes and vulnerability exploitation scripts) is only used for academic research and educational purposes, specifically including:
